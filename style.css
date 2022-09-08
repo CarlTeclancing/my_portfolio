@@ -62,7 +62,7 @@ a{
 }
 .links{
     width: 350px;
-    height: 50px;
+    height: 40px;
     background-color: rgb(255, 193, 21);
     margin: 20px;
     display: flex;
@@ -71,6 +71,6 @@ a{
 }
 .bi, span{
     color: #5E17EB;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     
 }
